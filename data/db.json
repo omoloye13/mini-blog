@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My recent blog",
+      "body": "The recent brand ambassador of the beauty blog",
+      "author": "Foladara",
+      "id": "2"
+    },
+    {
+      "title": "carina",
+      "body": "lorem ipsum dolor sit amet consecteur",
+      "author": "yoshi",
+      "id": "5T8lOn0"
+    },
+    {
+      "title": "my new blog",
+      "body": "Lorem ipsum, dolor sit amet \n            consectetur adipisicing elit. Necessitatibus laudantium cupiditate expedita molestiae voluptatem facilis commodi natus? Perferendis sequi dolorum aperiam quas ab, ullam perspiciatis inventore facilis, excepturi, rem eius",
+      "author": "",
+      "id": "uLDNKn8"
+    }
+  ]
+}
