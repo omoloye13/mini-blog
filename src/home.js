@@ -1,10 +1,9 @@
 import Bloglist from './blogList';
 import useFetch from './useFetch';
 
-
+//
 const Home=()=> {
-    const{data: blogs, isLoading, error} = useFetch('http://localhost:8000/blogs');
-    
+    const{data: blogs, isLoading, error} = useFetch('https://jsonplaceholder.typicode.com/posts');
     // const [blogs, setBlogs] = useState([
     //     { title: 'My new website', body: 'lorem ipsum...', author: 'mario', id: 1 },
     //     { title: 'My new website', body: 'lorem ipsum...', author: 'chimamanda', id: 2 },

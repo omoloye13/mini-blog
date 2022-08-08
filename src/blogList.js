@@ -11,7 +11,7 @@ const Bloglist = ({blogs}) => {
                 <div className="blog-view" key={blog.id}>
                     <Link to={`/blog/${blog.id}`}>
                     <h2>{blog.title}</h2>
-                    <p>Written by {blog.author}</p>
+                    <p> {blog.body}</p>
                     {/* <button>Delete blog</button> */}
                     {/* <button onClick={()=>handleDelete(blog.id)}>Delete blog</button> */}
                     </Link>
